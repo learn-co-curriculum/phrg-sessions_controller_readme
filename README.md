@@ -87,5 +87,8 @@ At its base, login is very simple: the user provides you with credentials in a P
 
 ## Resources
   * [Rails Tutorial Chapter 8 — Log in, log out](https://www.railstutorial.org/book/basic_login)
+  
+  ## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sessions_controller_readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sessions_controller_readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Sessions Controller</p>
